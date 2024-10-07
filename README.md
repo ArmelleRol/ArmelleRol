@@ -82,6 +82,6 @@
 
 ###
 
-<p align="left">- Email : armelle.rolando@gmail.com<br>- LinkedIn : linkedin.com<br>- GitHub : github.com/ArmelleRol</p>
+<p align="left">- Mail : armelle.rolando@gmail.com<br>- LinkedIn : linkedin.com<br>- GitHub : github.com/ArmelleRol</p>
 
 ###
