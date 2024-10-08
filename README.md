@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Je suis Armelle <br><br>- 🔭 Je viens d'obtenir mon titre professionnel Web et Web Mobile<br>- 📚 J'ai créé ce portfolio afin de vous présenter mes créations et mon parcours en tant que développeuse web.</p>
+<p align="left">Je m'appelle Armelle Rolando <br><br>- 🔭 Je viens d'obtenir mon titre professionnel Web et Web Mobile<br>- 📚 J'ai créé ce portfolio afin de vous présenter mes créations et mon parcours en tant que développeuse web.</p>
 
 ###
 
